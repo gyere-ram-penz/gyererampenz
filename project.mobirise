@@ -1,0 +1,674 @@
+{
+  "settings": {
+    "currentPage": "page2.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#2969b0",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Oswald",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 22,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "kivalasztott.index.html": {
+      "settings": {
+        "main": true,
+        "title": "Legyél a kiválasztott",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28324e"
+            },
+            ".mbr-section-lead": {
+              "color": "#131212",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Legyél Te a 12 kiválasztott egyike!&nbsp;",
+          "text": "<br><span style=\"font-style: normal;\">#heti 3 nap&nbsp;<br><br>#4 hónapos promóciós időszakra<br><br>#nettó 20.000 Ft napidíj<br><br>#Erste Bank - WizzAir promóció<br><br>#Exkluzív munkakörnyezet a reptéren</span><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28324e",
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "color": "#475577",
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Semmiképpen se maradj le, ha:<br><br>",
+          "text": "•\taz idegenek megszólítása simán megy<br>•\t5 perc alatt el tudsz adni egy igazán jó szolgáltatást<br>•\tbírod a strapát<br>•\tvan benned spiritusz<br>•\tk*jó #értékesítő vagy&nbsp;<br><br><br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#contacts4-2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>JELENTKEZZ!<br></a> "
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-4",
+          "_params": {
+            "imageSize": "59",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=dXiLVljmFw0&feature=youtu.be",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "TALÁLJ MEG MINKET KÖNNYEDÉN!&nbsp;",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.facebook.com/WeAreTheSales/?fref=ts\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>facebook</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Cím</strong><br>\n1143 Budapest<br>\nStefánia út 77.&nbsp;<br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: office@watsing.hu<br>\nTelefon: +36 30 326 1091<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b><br></b><br></p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "office@watsing.hu",
+            "alerts": {
+              "success": "Köszönjük a jelentkezést, hamarosan felvesszük Veled a kapcsolatot! "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Név*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefonszám*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Jelentkezem!</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-5",
+          "_params": {
+            "googleMap": {
+              "address": "1143 Budapest Stefánia út 77\n",
+              "placeId": "ChIJgxsckoPcQUcRxNFdfbq-dbk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-6",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH YOUTUBE VIDEO",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Web Site Generator Title",
+        "meta_descr": "Web Site Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2b0680",
+              "font-size": "60px"
+            },
+            ".mbr-section-lead": {
+              "color": "#2b0680"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-g",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Mivel foglalkozunk? ÉR-TÉ-KE-SÍ-TÉS",
+          "text": "Ha tudod, MOST MUTASD MEG és keresd hülyére magad!<br>Ha nem tudod, csak legyél bátor, mi megtanítunk és aztán keresd hülyére magad!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"page2.html#features1-c\" data-toolbar=\"-mbrBtnMove\">GYERE RÁM PÉNZ!&nbsp;</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-c",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/17819933-1884248828526372-1683534752-o-600x449.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "100 jelentkezőből 10 felel meg a kiválasztáson",
+          "subtitle1": "Vajon Te benne vagy abban a 10%-ban? 30 perc alatt kiderül!&nbsp;",
+          "caption1": "Vajon Te benne vagy abban a 10%-ban? 30 perc alatt kiderül! <br>Van 30 perced 500 000 Ft lehetőségre, VAGY eldöntöd egymagad, hogy ez nem Neked való?&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"page2.html#contacts4-2\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">VAN 30 PERCEM!</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1723893-875275-firework-streaks-in-night-sky-celebration-background-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Szupersztár lehetsz!",
+          "subtitle2": "",
+          "caption2": "10 indulóból az a 2, akik az első hónapban a legjobban teljesítenek, SuperStar szolgáltatást kapnak.",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html#testimonials2-i\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Mi az a SuperStar szolgáltatás?&nbsp;</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/money-600x398.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Eredmények<br><br><br>",
+          "subtitle3": "",
+          "caption3": "500 000 Ft havi átlag kereset LEGKÉSŐBB a 6. hónapra. <br>Ez azért szabad szemmel is jól látható összeg, ebben egyezünk, remélem!<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"page2.html#testimonials2-i\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">SuperStar akarok lenni!</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mmw-moneyhappy.gif",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Ja, és ha nem kerülsz be a 2 legjobb közé...",
+          "subtitle4": "",
+          "caption4": "...a legrosszabb, ami történhet Veled, az a havi nettó 250 000 Ft-is fizu! ",
+          "button4": "<a data-app-btn=\"true\" href=\"page2.html#contacts4-2\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">NA MIZU?</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>DEDIKÁLT ÉRTÉKESÍTÉSI ASSZISZTENS</p><p> aki csak hozza, hozza és hozza az ügyfeleket, hogy neked tényleg csak az értékesítéssel kelljen foglalkoznod. Ezzel a támogatással 2,5-szer többet termelsz, mint enélkül!</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mbr-160x106.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>DEDIKÁLT SZAKMAI TÁMOGATÓ</p><p>aki non stop rendelkezésre áll és aki úgy motivál, mint egy élsportolót az edző; nem engedi, hogy ne hozd ki magadból a maximumot</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mbr-1-160x106.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>SZÓVAL, A KÉRDÉS A KÖVETKEZŐ:</p><p>1.\tBaromi gyorsan beregisztrálsz, hogy bekerülj az első körbe, ami augusztus 21-én indul </p><p>VAGY</p><p>2.\tGondolkozol még egy kicsit és elbuksz így még 1-2 hónapot </p><p>VAGY</p><p>3.\tMaradsz otthon a családi pihe-puha fészekben és várod hogy történjen valami</p><p> VAGY</p><p>4.\tButulsz valami droid állásban, mert az kényelmes </p><p>VAGY</p><p>5.\tNem hiszed el, hogy ez valóban létezik és álmodozol tovább </p><p>VAGY</p><p>6.\tElhozod magaddal az összes barátodat, hogy együtt vegyetek részt ebben a kalandban </p><p>VAGY</p><p>7.\tTanulsz valahol, valamit amiből már most tudod, hogy nem a te tereped </p><p>VAGY</p><p>8.\tBaromi gyorsan beregisztrálsz, hogy bekerülj az első körbe, ami augusztus 21-én indul&nbsp;</p><p><br></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mbr-3-160x106.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "page2.html#contacts4-2",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "",
+              "authorBio": ""
+            }
+          ],
+          "_anchor": "testimonials2-i",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true
+          },
+          "title": "SUPERSTAR SZOLGÁLTATÁS",
+          "subtitle": "Havonta 2 óra a Stratégiai vezetővel, aki úgy célra tesz, hogy arról koldulsz!<br>",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#2b0680",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            ".card-block B": {
+              "font-size": "23px"
+            },
+            ".card-block": {
+              "font-size": "24px"
+            },
+            ".card-block P": {
+              "font-size": "22px",
+              "color": "#2b0680"
+            },
+            ".card-block DIV": {
+              "font-size": "22px"
+            },
+            ".mbr-section-title": {
+              "color": "#2b0680"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Cím</strong><br>\n1143 Budapest<br>\nStefánia út 77.&nbsp;<br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: office@watsing.hu<br>\nTelefon: +36 30 326 1091<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b><br></b><br></p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "office@watsing.hu",
+            "alerts": {
+              "success": "Köszönjük a jelentkezést, hamarosan felvesszük Veled a kapcsolatot! "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Név*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefonszám*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Jelentkezem!</a>"
+        }
+      ]
+    }
+  }
+}
