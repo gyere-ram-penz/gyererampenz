@@ -216,7 +216,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Cím</strong><br>\n1143 Budapest<br>\nStefánia út 77.&nbsp;<br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: office@watsing.hu<br>\nTelefon: +36 30 326 1091<br><br>",
+          "text1": "<strong>Cím</strong><br>\n1143 Budapest<br>\nStefánia út 77.&nbsp;<br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: office@watsing.hu<br>\nTelefon: +36 30 793 1705<br>",
           "text2": "<p class=\"mbr-contacts__text\"><b><br></b><br></p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p>",
           "form": {
             "title": "MESSAGE",
@@ -389,6 +389,11 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features1-c",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -500,18 +505,38 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#2b0680",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "text-align": "center",
+              "font-size": "20px"
+            },
+            ".card-block B": {
+              "font-size": "23px"
+            },
+            ".card-block": {
+              "font-size": "24px"
+            },
+            ".card-block P": {
+              "font-size": "22px",
+              "color": "#2b0680"
+            },
+            ".card-block DIV": {
+              "font-size": "22px"
+            },
+            ".mbr-section-title": {
+              "color": "#2b0680"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>DEDIKÁLT ÉRTÉKESÍTÉSI ASSZISZTENS</p><p> aki csak hozza, hozza és hozza az ügyfeleket, hogy neked tényleg csak az értékesítéssel kelljen foglalkoznod. Ezzel a támogatással 2,5-szer többet termelsz, mint enélkül!</p>",
@@ -573,6 +598,9 @@
             "count": 3,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -582,38 +610,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "SUPERSTAR SZOLGÁLTATÁS",
-          "subtitle": "Havonta 2 óra a Stratégiai vezetővel, aki úgy célra tesz, hogy arról koldulsz!<br>",
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "color": "#2b0680",
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "text-align": "center",
-              "font-size": "20px"
-            },
-            ".card-block B": {
-              "font-size": "23px"
-            },
-            ".card-block": {
-              "font-size": "24px"
-            },
-            ".card-block P": {
-              "font-size": "22px",
-              "color": "#2b0680"
-            },
-            ".card-block DIV": {
-              "font-size": "22px"
-            },
-            ".mbr-section-title": {
-              "color": "#2b0680"
-            }
-          }
+          "subtitle": "Havonta 2 óra a Stratégiai vezetővel, aki úgy célra tesz, hogy arról koldulsz!<br>"
         },
         {
           "_tags": [
@@ -638,7 +638,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Cím</strong><br>\n1143 Budapest<br>\nStefánia út 77.&nbsp;<br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: office@watsing.hu<br>\nTelefon: +36 30 326 1091<br><br>",
+          "text1": "<strong>Cím</strong><br>\n1143 Budapest<br>\nStefánia út 77.&nbsp;<br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: office@watsing.hu<br>\nTelefon: +36 30 793 1705<br>",
           "text2": "<p class=\"mbr-contacts__text\"><b><br></b><br></p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p>",
           "form": {
             "title": "MESSAGE",
